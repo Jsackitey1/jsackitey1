@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔭 I am a Software Engineer.
-🌱 I study Computer Science and Physics at Gettysburg College.
-⚡ Fun fact: I studied DSA on my own.
+🔭 I am a Software Engineer.</br>
+🌱 I study Computer Science and Physics at Gettysburg College.</br>
+⚡ Fun fact: I studied DSA on my own.</br>
 
 
 ## 🌐 Socials:
