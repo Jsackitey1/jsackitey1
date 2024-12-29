@@ -2,7 +2,7 @@
 
 🔭 I am a Software Engineer.</br>
 🌱 I study Computer Science and Physics</br>
-⚡ Currently learning React and Typescript. I am happy to contribute to open-source projects.</br>
+⚡ Currently mastering React and Typescript. I am happy to contribute to open-source projects.</br>
 
 
 ## 🌐 Socials:
