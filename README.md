@@ -1,10 +1,5 @@
 # 💫 About Me:
-
-🔭 I am a Software Engineer.</br>
-🌱 I study Computer Science and Physics</br>
-⚡ Currently mastering React and Typescript. I am happy to contribute to open-source projects.</br>
-❤️ "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."</br>
-                                                                                                – Alan Kay
+⚡ Currently mastering React and TypeScript. I am happy to contribute to open-source projects.</br>❤️ "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it."</br>– Alan Kay
 
 
 ## 🌐 Socials:
