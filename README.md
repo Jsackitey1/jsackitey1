@@ -6,6 +6,7 @@
 ❤️ <em>"The best way to predict the future is to invent it." — Alan Kay</em>
 
 </div>
+<div align="center">
 💻 Tech Stack
 🧠 Languages & Frameworks
 <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> </p>
@@ -21,5 +22,4 @@
 <p> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> </p>
 ✍️ Favorite Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" /> </p>
-📊 Visitor Count
-<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=jsackitey1&icon=0&color=1" alt="Visitor Count" /> </a> </p>
+</div>
