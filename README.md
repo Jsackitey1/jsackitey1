@@ -1,7 +1,5 @@
 💫 About Me
-<div align="center"> <strong>⚡ React & TypeScript Dev | Curious Builder | Open-Source Enthusiast ⚡</strong><br/> 🌱 Always learning. Always curious.<br/> ❤️ <em>"The best way to predict the future is to invent it." — Alan Kay</em> </div>
-🌐 Connect with Me
-<p align="center"> <a href="https://x.com/sackitey_j"><img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="X"></a> <a href="https://www.linkedin.com/in/joseph-sackitey-44a8831b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<div align="center"> <strong>⚡ Curious Builder | Open-Source Enthusiast ⚡</strong><br/> 🌱 Always learning. Always curious.<br/> ❤️ <em>"The best way to predict the future is to invent it." — Alan Kay</em> </div>
 💻 Tech Stack
 🧠 Languages & Frameworks
 <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> </p>
