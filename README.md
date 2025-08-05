@@ -1,5 +1,6 @@
 <div align="center">
-💫 About Me
+💫 About Me<br/>
+  
 <strong>⚡ React & TypeScript Dev | Curious Builder | Open-Source Enthusiast ⚡</strong><br/>
 🌱 Always learning. Always curious.<br/>
 ❤️ <em>"The best way to predict the future is to invent it." — Alan Kay</em>
