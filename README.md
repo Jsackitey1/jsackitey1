@@ -1,7 +1,7 @@
 <div align="center">
 💫 <br/>
   
-<strong>⚡Curious Builder | Open-Source Enthusiast | Inventing the Future❤⚡</strong><br/>
+<strong>⚡Curious Builder | Open-Source Enthusiast | Inventing the Future⚡</strong><br/>
 🌱 Always learning. Always curious.<br/>
 
 ✍️ A Great Developer Once Said:
