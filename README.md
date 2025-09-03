@@ -8,6 +8,5 @@
   </p>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jsackitey1&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsackitey1&show_icons=true&theme=radical" alt="Most Used Languages" />  
 </div>
