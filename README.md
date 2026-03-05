@@ -1,7 +1,4 @@
 <div align="center">
-  <strong>⚡Student by day, developer by night (and sometimes also by day).⚡</strong><br/>
-  🌱 My main skills? Learning new things and then fixing what I just broke.<br/>
-  <br/>
 <h3>🛠️ Proficient Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
